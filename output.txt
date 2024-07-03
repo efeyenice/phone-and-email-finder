@@ -1,0 +1,25 @@
+Here's the result that is copied to the clipboard
+Phone Number(s):
+
+(310) 555-2368
+877-555-3456
+(202) 555-4789
+(646) 555-9876
+(415) 555-8293
+800-555-6633
+(312) 555-1423
+(415) 555-2673
+
+Email(s)
+
+reports@companymail.com
+jessica.jones@business.net
+it.support@techfirm.org
+events@socialclub.com
+hr@company.org
+mike.ross@lawfirm.com
+media@publicrelations.com
+software.support@tech.com
+directory@companymail.com
+alex.johnson@business.com
+
